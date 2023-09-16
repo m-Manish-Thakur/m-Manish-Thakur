@@ -12,9 +12,9 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- Innovative Frontend Developer with a solid understanding of Web Development, developing web applications using HTML, CSS3, JS and Frameworks like   
-         Bootstrap, React.js . Good working knowledge in Frontend Development. As a Web Developer, my objective is to make a positive impact on client using my 
-         skills and experience to develop attractive websites.</i>
+    <i>- 
+        Motivated MERN Stack Developer with a passion for creating dynamic and responsive web applications. Adept in both frontend and backend development, with hands-on experience in HTML5, CSS3, JavaScript,             React.js, Node.js, and MongoDB. Skilled in building and optimizing web applications, and continuously seeking to expand knowledge in emerging web technologies.Strong expertise in React.js for building interactive and user-friendly web interfaces.Backend development skills with Node.js, creating robust and scalable server-side applications.
+    </i>
 </h3>
 
 <br>
