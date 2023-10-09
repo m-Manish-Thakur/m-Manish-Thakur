@@ -4,7 +4,7 @@
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Manish Thakur (MEARN Stack Developer)
+    I'm Manish Thakur (MERN Stack Developer)
 </h1>
 
 
