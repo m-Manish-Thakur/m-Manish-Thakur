@@ -66,7 +66,24 @@
 </p>
 <br>
 
+<h2><i>My top projects</i></h2>
 
+
+<p align="left">
+    <a href="https://github.com/m-Manish-Thakur/Doctor-Booking-App" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike Clone&color=000000&logo=Doctor-Appointment&logoColor=FFFFFF&label=" />
+    </a>
+    <a href="https://github.com/m-Manish-Thakur/Disney-Hotstar" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Disney+Hotstar&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
+    </a>
+     <a href="https://github.com/m-Manish-Thakur/YouTube_React" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube Clone&color=CD201F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
+    </a>
+     <a href="https://github.com/m-Manish-Thakur/Blog_app" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog App&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
+    </a>
+</p>
+<br>
 
 
 <!--
