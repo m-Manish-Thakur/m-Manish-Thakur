@@ -13,13 +13,17 @@
 
 <h3>
     <i>- 
-        🎯 I'm Manish Thakur, a driven MERN Stack Developer with a knack for crafting interactive and responsive web applications. 💡 I have expertise in frontend and backend development, with proficiency in HTML5, CSS3, JavaScript, Tailwind, React.js, Redux, Node.js, MongoDB, and Rest API. I breathe life into code, turning ideas into reality, ensuring every web application I develop is optimized for the best performance.
+ 🎯 I'm Manish Thakur, a driven MERN Stack Developer with a knack for crafting interactive and responsive web applications. 💡 I have expertise in frontend and backend development, with proficiency in HTML5, CSS3, JavaScript, Tailwind, React.js, Redux, Node.js, MongoDB, and Rest API. I breathe life into code, turning ideas into reality, ensuring every web application I develop is optimized for the best performance.
+
 
 🔧 My tools of the trade include Frontend tech like HTML5, CSS3, JavaScript, ES6, React.js, and Redux Toolkit. As for the Backend, I’m adept in Node.js, Express.js, MongoDB, and building Restful APIs. I also have a good grip on Dev Tools like Git & GitHub and VS Code.
 
+
 🏗️ I'm very proud of the projects I've worked on. My most recent project is a Disney+ Hotstar Clone, and Blogify, a blogging website. I’ve also created a replica of YouTube and developed a responsive clinic website, all under my GitHub repositories. With every project I take on, my aim is always to enhance user engagement and deliver an excellent user experience.
 
+
 🎓 As for my education, I hold a Bachelor's degree in Computer Applications from SSLDV Engineering College.
+
 
 🚀 I invite you to check out the projects I've been involved in and connect for any exciting opportunities.
     </i>
