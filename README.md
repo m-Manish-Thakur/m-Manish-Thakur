@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <!----------------------------------- Heading Section ------------------------------------>
-<h1 align="center">
-    Hey,
+<h1>
     I'm Manish Thakur (Full Stack Developer)
 </h1>
 
