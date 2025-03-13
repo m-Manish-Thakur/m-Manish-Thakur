@@ -2,9 +2,9 @@
 
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
-    Hi
+    Hey👋,
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Manish Thakur (MERN Stack Developer)
+    I'm Manish Thakur (Full Stack Developer)
 </h1>
 
 
@@ -13,7 +13,7 @@
 
 <h3>
     <i>- 
-       🎯 I'm Manish Thakur, a driven MERN Stack Developer with a knack for crafting interactive and responsive web applications.
+         I'm Manish Thakur, a full-stack developer with a strong ability to build interactive and user-friendly web applications.
     </i>
 </h3>
 
