@@ -2,7 +2,7 @@
 
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
-    Hey👋,
+    Hey,
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
     I'm Manish Thakur (Full Stack Developer)
 </h1>
