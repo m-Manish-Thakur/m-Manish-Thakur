@@ -12,7 +12,7 @@
 <h3>
     <i>-
         A full-stack developer with expertise in building dynamic, scalable, and user-friendly web applications. 
-        Strong problem-solving skills with experience in both front-end and back-end development, specializing in Next.js.
+        Strong problem-solving skills with experience in both front-end and back-end development.
     </i>
 </h3>
 
