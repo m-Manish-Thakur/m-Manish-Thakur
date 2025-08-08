@@ -3,7 +3,7 @@
 
 <h3>
     <i>
-        👋 Hey there, I'm Manish — your go-to full-stack developer and freelance problem solver! I build clean, fast, and reliable web apps from front to back. Whether it's a simple website or a full product, I'm              here to help bring ideas to life. Let’s build something great together!
+        👋 Hey, I'm Manish — a full-stack developer who turns ideas into fast, clean, and working web apps. Available for freelance — let’s build something cool!
     </i>
 </h3>
 
