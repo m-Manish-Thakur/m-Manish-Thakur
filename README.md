@@ -10,9 +10,8 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>-
-        A full-stack developer with expertise in building dynamic, scalable, and user-friendly web applications. 
-        Strong problem-solving skills with experience in both front-end and back-end development.
+    <i>-\
+        👋 Hey there, I'm Ketan — your go-to full-stack developer and freelance problem solver! I build clean, fast, and reliable web apps from front to back. Whether it's a simple website or a full product, I'm              here to help bring ideas to life. Let’s build something great together!
     </i>
 </h3>
 
@@ -62,14 +61,4 @@
     </a>
 </p>
 <br>
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
