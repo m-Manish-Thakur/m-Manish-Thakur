@@ -39,13 +39,13 @@
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/manish-thakur-%F0%9F%87%AE%F0%9F%87%B3-9a6877235/">
+    <a href="https://www.linkedin.com/in/manish-thakur-%F0%9F%87%AE%F0%9F%87%B3-9a6877235/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
     </a>
-    <a href="https://twitter.com/Manisht231690">
+    <a href="https://twitter.com/Manisht231690" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
-    <a href="https://manishcodes.in/">
+    <a href="https://manishcodes.in/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" />
     </a>
     <a title="manishthakur231690@gmail.com" href="mailto:manishthakur231690@gmail.com">
