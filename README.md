@@ -45,7 +45,7 @@
     <a href="https://twitter.com/Manisht231690">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
-    <a href="https://manish-thakur-portfolio.netlify.app/">
+    <a href="https://manishcodes.in/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" />
     </a>
     <a title="manishthakur231690@gmail.com" href="mailto:manishthakur231690@gmail.com">
