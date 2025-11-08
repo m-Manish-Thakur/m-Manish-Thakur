@@ -86,47 +86,6 @@ A modern webhook testing and debugging platform for developers to inspect, test,
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://pingbin.manishcodes.in)
 [![GitHub](https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github)](https://github.com/m-Manish-Thakur)
 
----
-
-### 🎬 [Hotstar Clone](https://disney-hotstar-ivory.vercel.app/)
-Collection of movies, personalized user watchlists, and an innovative OpenAI-powered search feature with trailer playback and secure authentication.
-
-**Tech:** React, JavaScript, Firebase, OpenAI API, Tailwind CSS
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://disney-hotstar-ivory.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github)](https://github.com/m-Manish-Thakur/Disney-Hotstar)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-Manish-Thakur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=667eea" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-Manish-Thakur&theme=tokyonight&hide_border=true&background=1a1b27&ring=667eea&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-Manish-Thakur&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea" alt="Top Languages" height="180"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-Manish-Thakur&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=667eea&line=667eea&point=667eea" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=m-Manish-Thakur&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
