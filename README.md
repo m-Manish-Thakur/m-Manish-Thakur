@@ -1,16 +1,23 @@
 <h1>Manish Thakur</h1>
 
 <p>
- I'm Manish — a full-stack developer who turns ideas into fast, clean, and working web apps. Available for freelance — let’s build something cool!
+ 👋 Hey, I'm Manish — a full-stack developer who turns ideas into fast, clean, and working web apps. Available for freelance — let’s build something cool!
 </p>
 
 ---
 
 <p>
-  <a href="https://manishcodes.in">🌐 Portfolio</a> •
-  <a href="https://manishcodes.in/resume">📄 Resume</a> •
-  <a href="mailto:manishthakur231690@gmail.com">✉️ Email</a>
+  <a href="https://manishcodes.in">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-667eea?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://manishcodes.in/resume">
+    <img src="https://img.shields.io/badge/📄_Resume-View_PDF-764ba2?style=for-the-badge&logoColor=white" alt="Resume"/>
+  </a>
+  <a href="mailto:manishthakur231690@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
+
 
 <p>
   <a href="https://twitter.com/Manisht231690"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
