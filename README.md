@@ -1,11 +1,9 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Manish%20Thakur&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35" />
-</div>
+<h1>Manish Thakur</h1>
 
-<h2>👋 Hi, I'm Manish — FullStack Developer</h2>
+--
 
 <p>
- 👋 Hey, I'm Manish — a full-stack developer who turns ideas into fast, clean, and working web apps. Available for freelance — let’s build something cool!
+ I'm Manish — a full-stack developer who turns ideas into fast, clean, and working web apps. Available for freelance — let’s build something cool!
 </p>
 
 <p>
