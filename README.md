@@ -1,10 +1,10 @@
 <h1>Manish Thakur</h1>
 
---
-
 <p>
  I'm Manish — a full-stack developer who turns ideas into fast, clean, and working web apps. Available for freelance — let’s build something cool!
 </p>
+
+---
 
 <p>
   <a href="https://manishcodes.in">🌐 Portfolio</a> •
