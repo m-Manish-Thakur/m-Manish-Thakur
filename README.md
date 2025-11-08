@@ -1,55 +1,70 @@
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Manish%20Thakur&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35" /> </div> <h3 align="center">👋 Hi, I'm Manish — FullStack Developer</h3> <p align="center"> I love crafting interactive web apps — <strong>React</strong> and <strong>NextJS</strong> bring the visuals to life, while <strong>Go</strong> and <strong>PostgreSQL</strong> power everything behind the scenes. Focused on clean design, smooth UX, and code that just feels right. </p> <p align="center"> <a href="https://manishcodes.in">🌐 Portfolio</a> - <a href="https://manishcodes.in/resume">📄 Resume</a> - <a href="mailto:manishthakur231690@gmail.com">✉️ Email</a> </p> <p align="center"> <a href="https://twitter.com/Manisht231690"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://linkedin.com/in/manish-thakur0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/m-Manish-Thakur"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=m-Manish-Thakur&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
+🚀 About Me
+🔭 Currently working as Fullstack Developer at Dotix Technologies
 
-<!----------------------------------- About Section ------------------------------------>
+💼 Building scalable web applications with Next.js, Go, PostgreSQL, and TypeScript
 
-<h3>
-    <i>
-        👋 Hey, I'm Manish — a full-stack developer who turns ideas into fast, clean, and working web apps. Available for freelance — let’s build something cool!
-    </i>
-</h3>
+🌱 Exploring microservices architecture, real-time systems, and advanced React patterns
 
-<br>
+📍 Based in Noida, India
 
+💬 Ask me about React, Next.js, Go, PostgreSQL, System Design
 
-<!----------------------------------- Tech Stack Section ------------------------------------>
+📫 Reach me at manishthakur231690@gmail.com
 
-<h2><i>Tech Stack</i></h2>
+💼 Experience
+🏢 Dotix Technologies Pvt. Ltd. | Fullstack Developer
+May 2024 - Present | Noida, India (On-Site)
 
-<p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB" alt="nextjs" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</p>
-<br>
+🔹 Designed and developed end-to-end dashboard solutions with Next.js and Postgres
 
-<!----------------------------------- Social Media Links Section ------------------------------------>
+🔹 Built offerwall systems, social media dashboards, and AI-powered review management
 
-<h2><i>Let's Connect</i></h2>
+🔹 Implemented microservice architecture with event-driven communication
 
+🔹 Developed authentication systems with NextAuth and RBAC
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/manish-thakur-%F0%9F%87%AE%F0%9F%87%B3-9a6877235/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
-    </a>
-    <a href="https://twitter.com/Manisht231690" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="https://manishcodes.in/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" />
-    </a>
-    <a title="manishthakur231690@gmail.com" href="mailto:manishthakur231690@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-</p>
-<br>
+🔹 Contributed to Go-based backend development for scalable applications
+
+🌐 TheAdzPlug | Web Developer Intern
+June 2024 - July 2024 | Noida, India (Hybrid)
+
+🔹 Developed responsive web interfaces using React.js and Tailwind CSS
+
+🔹 Integrated APIs for dynamic, data-driven components
+
+🔹 Collaborated with design and backend teams for seamless UX
+
+🛠️ Tech Stack
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind,redux" /> </p>
+Backend
+<p> <img src="https://skillicons.dev/icons?i=go,nodejs,express,mongodb,mysql,postgres,prisma,redis" /> </p>
+Tools & Others
+<p> <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel,vscode" /> </p>
+🌟 Featured Projects
+🔗 Pingbin
+A modern webhook testing and debugging platform for developers to inspect, test, and monitor HTTP requests in real-time with detailed payload analysis.
+
+Tech: Next.js, TypeScript, Go, Gin, MySQL, Prisma, Tailwind CSS
+
+[
+[
+
+🎬 Hotstar Clone
+Collection of movies, personalized user watchlists, and an innovative OpenAI-powered search feature with trailer playback and secure authentication.
+
+Tech: React, JavaScript, Firebase, OpenAI API, Tailwind CSS
+
+[
+[
+
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=m-Manish-Thakur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=667eea" alt="GitHub Stats" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-Manish-Thakur&theme=tokyonight&hide_border=true&background=1a1b27&ring=667eea&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak" height="180"/> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-Manish-Thakur&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea" alt="Top Languages" height="180"/> </div>
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-Manish-Thakur&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=667eea&line=667eea&point=667eea" alt="Contribution Graph"/> </div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=m-Manish-Thakur&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/> </div>
+📫 Let's Connect
+<p align="center"> <a href="mailto:manishthakur231690@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/manish-thakur0"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/Manisht231690"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://manishcodes.in"> <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> <a href="tel:+919634007020"> <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> </p>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" /> </div> <p align="center"> <i>⭐️ From <a href="https://github.com/m-Manish-Thakur">m-Manish-Thakur</a> | Developed with 💙 by Manish</i> </p>
