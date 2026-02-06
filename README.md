@@ -23,8 +23,6 @@
   <a href="https://twitter.com/Manisht231690"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/manish-thakur0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/m-Manish-Thakur"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-  
   <img src="https://komarev.com/ghpvc/?username=m-Manish-Thakur&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
@@ -36,7 +34,6 @@
 - 💼 Building scalable web applications with **Next.js**, **Go**, **PostgreSQL**, and **TypeScript**
 - 🌱 Exploring microservices architecture, real-time systems, and advanced React patterns
 - 📍 Based in **Noida, India**
-- 💬 Ask me about **React, Next.js, Go, PostgreSQL, System Design**
 - 📫 Reach me at **manishthakur231690@gmail.com**
 
 ---
@@ -82,10 +79,10 @@
 
 ## 🌟 Featured Projects
 
-### 🔗 [Pingbin](https://pingbin.manishcodes.in)
-A modern webhook testing and debugging platform for developers to inspect, test, and monitor HTTP requests in real-time with detailed payload analysis.
+### 🔗 [Templr - Create Modern HTML Emails](https://templrapp.com)
+ Create modern, conversion-ready HTML Emails with simple drag-and-drop. No coding required
 
-**Tech:** Next.js, TypeScript, Go, Gin, MySQL, Prisma, Tailwind CSS
+**Tech:** React.js, Tailwind CSS, TypeScript, Node.js, Express, PostgreSQL, Prisma
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://pingbin.manishcodes.in)
 [![GitHub](https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github)](https://github.com/m-Manish-Thakur)
@@ -115,7 +112,3 @@ A modern webhook testing and debugging platform for developers to inspect, test,
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
 </div>
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/m-Manish-Thakur">m-Manish-Thakur</a> | Developed with 💙 by Manish</i>
-</p>
