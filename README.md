@@ -80,12 +80,11 @@
 ## 🌟 Featured Projects
 
 ### 🔗 [Templr - Create Modern HTML Emails](https://templrapp.com)
- Create modern, conversion-ready HTML Emails with simple drag-and-drop. No coding required
+Create modern, conversion-ready HTML Emails with simple drag-and-drop. No coding required.
 
 **Tech:** React.js, Tailwind CSS, TypeScript, Node.js, Express, PostgreSQL, Prisma
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://pingbin.manishcodes.in)
-[![GitHub](https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github)](https://github.com/m-Manish-Thakur)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://templrapp.com)
 
 ## 📫 Let's Connect
 
